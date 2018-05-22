@@ -10,5 +10,6 @@
 
 #include "include.h"
 
+char	*get_info(char *path);
 
 #endif

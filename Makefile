@@ -1,6 +1,6 @@
 ##
 ## EPITECH PROJECT, 2017
-## Makefile_TL 
+## Makefile_TL
 ## my_stumper2_main
 ##
 ##
@@ -10,7 +10,7 @@ SRC=	main.c	\
 
 OBJ=	$(SRC:.c=.o)
 
-CFLAGS= -Wextra -Wall -W -g -g3
+CFLAGS= -Wextra -Wall -W -g
 
 NAME= colle
 

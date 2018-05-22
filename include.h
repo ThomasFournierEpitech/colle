@@ -18,5 +18,6 @@
 #include <string.h>
 #include <dirent.h>
 #include <termios.h>
+#include <time.h>
 
 #endif
